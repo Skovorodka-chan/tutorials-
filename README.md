@@ -1,4 +1,4 @@
 # tutorials-
-/n practice
+/npractice
 English
 maths
